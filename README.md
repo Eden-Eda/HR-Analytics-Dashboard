@@ -26,3 +26,5 @@ Created Calculated Measure
 - Add Title HR Dashboard
 - Add some informative KPIs like Number of Employees, Number of Attrition, Number of Attrition rate,Number of Active employees, Average Salary, Number of employees near to office, and Number of employees half miles far from office.
 - Add Bar chart, Pie chart, Column chart, Cards, Matrix chart, TreeMap to anlayse Attrition rate different Department wise, Education field wise,salaryslab wise and (Age and Gender wise).
+
+## Screenshot
